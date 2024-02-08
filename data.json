@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Groceries",
+    "cost": 200,
+    "createdAt": "2021-01-01"
+  },
+  {
+    "id": 2,
+    "name": "Rent",
+    "cost": 1000,
+    "createdAt": "2021-01-01"
+  }
+]
